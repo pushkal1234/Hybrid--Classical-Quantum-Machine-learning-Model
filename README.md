@@ -87,29 +87,11 @@ Link
 
 
 
-CIFAR
-Notebook
-https://www.kaggle.com/viratkothari/image-classification-of-cifar-10-using-tensorflow
-
 
 
 Data
 http://www.cs.toronto.edu/~kriz/cifar.html
 
-
-Animals
-Notebook
-https://www.kaggle.com/viratkothari/image-classification-transfer-learning-resnet50
-
-
-
-Data
-https://www.kaggle.com/viratkothari/animal10
-
-
-Chest X-Ray
-Notebook
-https://www.kaggle.com/viratkothari/chest-x-ray-image-classification-using-vgg16
 
 
 
@@ -117,11 +99,3 @@ Data
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 
-Monkey spieces
-Notebook
-https://www.kaggle.com/viratkothari/monkey-species-image-classification-transfer-vgg16
-
-
-
-Data
-https://www.kaggle.com/slothkong/10-monkey-species
